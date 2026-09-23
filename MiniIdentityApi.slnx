@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="LoadTester/LoadTester.csproj" Id="3bf67854-bf86-4b58-9880-309b3903563f" />
   <Project Path="src/MiniIdentityApi.Api/MiniIdentityApi.Api.csproj" Id="0051fe30-ae3f-4493-ac5d-cba0d14a7150" />
   <Project Path="src/MiniIdentityApi.Application/MiniIdentityApi.Application.csproj" Id="ec8bd6c7-de71-4176-b33d-e376e3fb6435" />
   <Project Path="src/MiniIdentityApi.Domain/MiniIdentityApi.Domain.csproj" Id="e2667a6b-45e3-40ff-9cd0-952b9a72cd14" />
