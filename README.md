@@ -16,11 +16,6 @@ corriendo en **entorno local**, y mide:
 Los resultados se guardan automáticamente en archivos `.csv` para su
 posterior análisis y graficación.
 
-## ⚠️ Uso responsable
-
-Esta herramienta debe usarse **únicamente contra `localhost` o un entorno
-local controlado**. No está diseñada ni autorizada para dirigirse contra
-servicios públicos, de terceros o infraestructura ajena al grupo de trabajo.
 
 ## Requisitos
 
@@ -75,11 +70,6 @@ Genera en la carpeta `graficas/`:
 4. Ronda vs Uso de CPU
 5. Ronda vs Uso de memoria
 
-## Autores
-
-Angy Daniela Acosta Parrado · Luna Mariana Novoa Gonzales · Luciana Alejandra
-Belandria Agudelo · Sebastian Obando Rojas · Yeison Fabio Rey Mendez · Naser
-Alejandro Hayashi
 
 Universidad de los Llanos — Facultad de Ciencias Básicas e Ingenierías —
 Ingeniería de Sistemas 2026-I
