@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MiniIdentity API (.NET 10)
 
 A simple ASP.NET Core Web API example for:
